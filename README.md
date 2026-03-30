@@ -1,6 +1,6 @@
-# 🏠 Wanderlust – Accommodation Booking Platform
+# 🎬 Obys Agency Website Clone
 
-A full-stack accommodation booking platform inspired by modern rental marketplaces. This project enables users to explore listings, view details, and interact with a seamless and responsive user interface.
+A high-fidelity clone of an award-winning agency website, built to replicate smooth animations, advanced scroll interactions, and visually immersive user experience.
 
 ---
 
@@ -9,29 +9,27 @@ A full-stack accommodation booking platform inspired by modern rental marketplac
 * HTML5
 * CSS3
 * JavaScript (ES6+)
-* EJS (Templating)
-* Node.js & Express.js
-* MongoDB
+* GSAP (Animations)
+* Locomotive Scroll
 
 ---
 
 ## ✨ Features
 
-* 🏡 Dynamic listing interface with detailed property views
-* 🔐 User authentication and session handling
-* 🔍 Search and filtering for better discovery
-* 🗺️ Interactive map-based listings
-* 📱 Fully responsive across devices
-* ⚡ Smooth navigation and optimized UI performance
+* 🎥 Smooth scroll-based animations using GSAP
+* 🔄 Advanced scroll interactions with Locomotive Scroll
+* 🎨 Pixel-perfect UI inspired by award-winning design
+* ⚡ High-performance animation rendering
+* 📱 Responsive across devices
 
 ---
 
 ## 📌 What I Learned
 
-* Building dynamic and scalable frontend interfaces
-* Handling user authentication and session flows
-* Designing intuitive UI for better user engagement
-* Integrating maps and interactive elements
+* Implementing complex animation sequences using GSAP
+* Creating smooth scrolling experiences
+* Optimizing animation performance
+* Translating high-end design into code
 
 ---
 
@@ -40,26 +38,18 @@ A full-stack accommodation booking platform inspired by modern rental marketplac
 Clone the repository:
 
 ```bash
-git clone https://github.com/findmejay/wanderlust-project.git
+git clone https://github.com/your-username/obys-agency-clone.git
 ```
 
-Navigate to project:
+Open the project:
 
 ```bash
-cd wanderlust-project
+cd obys-agency-clone
 ```
 
-Install dependencies:
+Run locally:
 
-```bash
-npm install
-```
-
-Run the server:
-
-```bash
-npm start
-```
+* Open `index.html` in your browser
 
 ---
 
